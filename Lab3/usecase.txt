@@ -1,0 +1,38 @@
+@startuml
+skinparam actor {
+BackgroundColor White
+ArrowColor Black
+BorderColor Black
+}
+autonumber
+
+actor "Художник" as user
+boundary "Дисплей" as dis
+entity "Файловая система" as def
+entity "БД веб-сервиса" as ss
+control "Система выдачи тэгов" as ssfile
+
+
+user-> dis: набросок
+activate dis
+
+
+dis->def:сохранение файла в локальном хранилище
+activate def
+def-->dis:ошибка
+deactivate def
+
+
+def->ss:загрузка на веб-сервис
+activate ss
+
+
+
+ss->ssfile: выдача тэга
+activate ssfile
+ssfile-->ss: ок
+deactivate ssfile
+ss--> dis: ок
+deactivate ss
+dis--> user: ок
+@enduml
