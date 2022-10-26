@@ -33,7 +33,7 @@ Landing Page проекта - [TBD]
 
 Подготовлен отчет о выполнении работы в программе Cisco Packet Tracer:
 
-[Отчет](https://docs.google.com/document/d/166Pvf1dG1Vi3GF1rbu0huEh3IM9VDB8OvDzaQJ-NR_o/edit)
+[Отчет](https://docs.google.com/document/d/166Pvf1dG1Vi3GF1rbu0huEh3IM9VDB8OvDzaQJ-NR_o/edit?usp=sharing)
 
 ## Бакалавриат - архив
 
