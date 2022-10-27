@@ -35,6 +35,10 @@ Landing Page проекта - [TBD]
 
 [Отчет](https://docs.google.com/document/d/166Pvf1dG1Vi3GF1rbu0huEh3IM9VDB8OvDzaQJ-NR_o/edit?usp=sharing)
 
+## Экзаменационные билет №23
+
+Ответ на экзаменационный билет доступен по ссылке: [билет №23](https://github.com/stankin/inet-2022/wiki/exam23)
+
 ## Бакалавриат - архив
 
 [Курсовой проект](https://github.com/Kolyamba2007/Ilya.github.io/wiki/Курсовой-проект)
