@@ -25,11 +25,11 @@
 2. Обработка текстового запроса.
 3. И иные необходимые функции в зависимости от потребностей заказчика.
 
-#Ссылки на проект:
+##Ссылки на проект:
 
-*[Git-репозиторий проекта](https://github.com/lulu2kan/Megalul)
+* [Git-репозиторий проекта](https://github.com/lulu2kan/Megalul)
 
-*[Landing Page проекта - [TBD]](https://alekseygitpub.github.io)
+* [Landing Page проекта - [TBD]](https://alekseygitpub.github.io)
 
 ## ✅Лабораторная 3
 
