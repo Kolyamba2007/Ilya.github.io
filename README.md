@@ -25,7 +25,9 @@
 
 [Git-репозиторий проекта](https://github.com/lulu2kan/Megalul)
 
-Landing Page проекта - [TBD]
+[Landing Page проекта - [TBD]](https://alekseygitpub.github.io)
+
+❗Проект участвует в [конкурсе](https://idmit.ru). Команда: «ОАО Мегалюль»
 
 ## Лабораторная 3
 
