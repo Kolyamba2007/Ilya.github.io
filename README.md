@@ -42,6 +42,7 @@
 ## Экзаменационный билет №23
 
 Ответ на экзаменационный билет доступен по ссылке: [билет №23](https://github.com/stankin/inet-2022/wiki/exam23)
+
 Сравнение ревизий: [сравнение](https://github.com/stankin/inet-2022/wiki/exam23/_compare/abffb613a3bf20a649b44ced31baea47abf026ad...ca0c8a452e22a948aaa82df48d0d2951d762fb2b)
 
 ## Бакалавриат - архив
